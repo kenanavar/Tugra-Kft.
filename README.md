@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-
-<p style="font-size:160%;">KUŞ TÜRLERİ</p>
-
+<h1 style="font-size:160%;">KUŞ TÜRLERİ</h1>
 <br>
  <br>
 1) Muhabbet Kuşları: Evde beslenen en popüler kuş türüdür. Yaygın olarak mavi ve yeşil renkleri bulunur. Sesleri papağanlara göre çok yüksek değildir. İlgilenildiği takdirde birçok kelimeyi söyleyebilen kuşlardır.<br>
