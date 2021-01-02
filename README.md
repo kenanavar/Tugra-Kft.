@@ -1,4 +1,10 @@
- KUŞ TÜRLERİ<br>
+<!DOCTYPE html>
+<html>
+<body>
+
+<p style="font-size:160%;">KUŞ TÜRLERİ</p>
+
+<br>
  <br>
 1) Muhabbet Kuşları: Evde beslenen en popüler kuş türüdür. Yaygın olarak mavi ve yeşil renkleri bulunur. Sesleri papağanlara göre çok yüksek değildir. İlgilenildiği takdirde birçok kelimeyi söyleyebilen kuşlardır.<br>
 <br>
@@ -28,3 +34,7 @@ papağanlardır. Sesleri yüksektir. Fakat çok gürültü yapmazlar. Oyun oynam
 9) Amazon Papağanı: Anavatanı Amerika kıtasıdır. Gürültücü bir tapıları vardır.<br>
 <br>
 10) Kanarya: Evcilleştirilip kafeste beslenen bir kuş türüdür. Kanarya adaları, Madeira ve Azarlarda bulunur. Orta ve Güney Avrupa ile ön Asya’da yaygındırlar. Türkiye’nin her her yerinde bulunurlar.
+
+</body>
+</html>
+
