@@ -1,10 +1,22 @@
  <p style="text-align:center;">
-<b>KUŞ TÜRLERİ<b><br /> 
- 
- Kuşlar tüyleri, dişsiz gagaları, yumurtladıkları sert kabuklu yumurtalar yoluyla üreyen, yüksek metabolizma hızına sahip, dört odacıklı kalpleri ve hafif ama güçlü bir iskelet yapısına sahip, Aves sınıfını oluşturan sıcakkanlı omurgalı hayvanlar grubudur. Tüm dünyada yaygın olarak yaşayan kuşların boyutları arı sinek kuşunda 5 cm. ila deve kuşunda 2,75 m. arasında değişir. On bin kadar yaşayan kuş türü bulunur[2] ve bunların yarısından fazlasını ötücü kuşlar oluşturur. Kuşların türlere göre farklılık gösteren kanatları vardır ve kanatsız olduğu bilinen tek grup soyu tükenmiş olan moa ile fil kuşudur. Ön ayakların evrimleşerek kanatlara dönüşmesi kuşlara uçma yeteneği sağlamış ancak daha sonra yine evrimin devam etmesiyle penguenler, deve kuşları ve adalarda endemik olan bazı türler uçma yeteneğini kaybetmişlerdir. Kuşların sindirim ve solunum sistemleri de uçma yeteneğine uyum sağlamıştır. Özellikle deniz kuşları ve bazı su kuşları gibi kuşlar daha da evrimleşerek yüzme yeteneği de kazanmıştır.
 
-Kuşlar tüylü teropod dinozorlardır ve yaşayan tek dinozor grubunu oluştururlar. Ayrıca yaşayan en yakın akrabaları timsahlardır. İlk olarak 160 milyon yıl önce Çin'de ortaya çıkan ve aralarında Archaeopteryx'in de bulunduğu ilkel uçucuların soyundan gelmektedirler. DNA kanıtlarına göre günümüz kuşları (Neornithes) Orta ve Geç Kretase Dönemi'nde evrimleşmiş ve 66 milyon yıl önce teruzorlar ile tüm uçmayan dinozorları öldüren Kretase-Tersiyer yok oluşu zamanında oldukça önemli oranda türleşmişlerdir.
+ KUŞ TÜRLERİ
+1) Muhabbet Kuşları: Evde beslenen en popüler kuş türüdür. Yaygın olarak mavi ve yeşil renkleri bulunur. Sesleri papağanlara göre çok yüksek değildir. İlgilenildiği takdirde birçok kelimeyi söyleyebilen kuşlardır.
 
-Özellikle kargagiller ve papağansılar olmak üzere bazı kuşlar en zeki hayvanlar arasındadır; çeşitli kuş türleri alet yapıp kullanırken bazı kuşların alet kullanımı primatların en iyi kullanımları ile boy ölçüşebilir.[3][4][5] Birçok sosyal tür bilgiyi nesilden nesile geçirmekte ve bu da bir çeşit kültür olarak kabul edilmektedir. Kuşlar yavrularını müşterek olarak büyütme, birlikte avlanma, sürü olarak hareket etme ve avcılara karşı birlikte savunma yapma davranışları gösteren, görsel yollarla ya da öterek birbirleri ile iletişim kuran sosyal hayvanlardır. Kuş türlerinin büyük çoğunluğu genellikle bir üreme mevsimi boyunca, bazen yıllar boyunca cinsel açıdan olmasa da sosyal açıdan tek eşlidir ama yaşamları boyunca tek eşli olan türlere nadir rastlanır. Diğer türlerin üreme sistemleri genellikle polijinik yani tek erkek çok dişili ve nadiren de poliandrik yani tek dişi çok erkeklidir. Kuşlar eşeyli üreme yoluyla döllenen yumurtalar yumurtlayarak çoğalır. Genellikle bir yuvaya yumurtlanan yumurtalar üzerinde ebeveyn kuluçkaya yatar. Kuşların çoğu yumurtadan çıktıktan sonra yavrularının bakımına belirli bir süre devam eder.
+2) Hint Bülbülü: Hint bülbülü ispinoz ailesinden bir kuş türüdür. Fakat Hint bülbülleri muhabbet kuşları kadar evcil değillerdir. Ayrıca muhabbet kuşları gibi de konuşamazlar. Boyutları küçüktür. Ötüşleri de çok yüksek değildir. Bu sebeple tercih edilen bir kuş çeşididir.
 
-Birçok kuş türü insanlar tarafından besin olarak ya da üretim sektöründe hammadde kullanımı açışından ekonomik olarak önem taşır. Evcil ya da yabani kuşlar yumurta, et ve tüy için önemli kaynaklardır. Ötücü kuşların, papağanların ve diğer kuş türlerinin ev hayvanı olarak kullanımı yaygındır. Guano (kuş dışkışı) gübre olarak kullanılmak üzere toplanır. Kuşlar insanlık kültüründe çağlar boyunca yer almıştır. İnsan eylemleri nedeniyle 17. yüzyıldan beri yaklaşık 120 ila 130 kadar kuş türünün soyu tükenmiştir ve daha önceki yüzyıllarda soyu tükenen kuş türlerinin sayısı yüzleri aşmaktadır. İnsanlık nedeniyle günümüzde 1200 kadar kuş türü soylarının tükenmesi tehdidi altındadır ama onları koruma altına almak için çalışmalar da yapılmaktadır. Kuş gözlemi ekoturizm sektörü içinde önemli bir yer tutmaktadır.
+3) Sultan Papağanı: Ülkemizde muhabbet kuşlarından sonra en çok tercih edilen kuşlardır. Sevimli görüntüleri ile hayvan severler tarafından oldukça fazla tercih edilir. Bakımı ise ekonomiktir. Sesleri yüksek ve konuşmayı seven kuşlarıdır.
+
+4) Gri Papağanı: Gri renkte olan gri papağanı akıllı ve hassas hayvanlardır. Oldukça sakin bir yapıya sahiplerdir. Satın alma ve bakma maliyeti sultan papağanına göre biraz daha fazladır.
+
+5) Kakadu Papağanı: Bakımı maliyetli ve evde beslenecek kuşlardan birisidir. Beyaz renkli kuşlardır. Genellikle sakin hayvanlardır. Konuşmayı öğrenebilecek bir yapıya sahiptir. Fakat bunun için yoğun ilgi göstermek gerekir.
+
+6) Konur Papağanı: Bu papağanlar arasında en yaygın olan yeşil yanaklı papağanlardır. Muhabbet kuşlarına göre biraz daha büyüktür. Çok konuşmayan ve sakin bir hayvan olması sebebiyle bakımı da oldukça kolaydır.
+
+
+7) Amerika Papağanı: Kendi içerisinde türleri olan egzotik renge sahip
+papağanlardır. Sesleri yüksektir. Fakat çok gürültü yapmazlar. Oyun oynamayı çok seven bu papağanların konuşabilme yetenekleri de bulunmaktadır.
+
+8) Senaga Papağanı: Kafa, boyun ve gırtlağı, yanakları gri renkli bir papağan türüdür. Senegal, Gambiya, Fildişi Sahili, Nijerya’da yaşarlar.
+9) Amazon Papağanı: Anavatanı Amerika kıtasıdır. Gürültücü bir tapıları vardır.
+10) Kanarya: Evcilleştirilip kafeste beslenen bir kuş türüdür. Kanarya adaları, Madeira ve Azarlarda bulunur. Orta ve Güney Avrupa ile ön Asya’da yaygındırlar. Türkiye’nin her her yerinde bulunurlar.
