@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Tugra Kft. 
+<h1>
   <br>
     <br>
   1239 Budapest, <br> 
